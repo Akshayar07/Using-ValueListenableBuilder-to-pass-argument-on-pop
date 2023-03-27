@@ -1,0 +1,34 @@
+{
+  "car": [
+    {
+      "name": "Duster",
+      "count": 5,
+      "model": [
+        {
+          "colour": "brown",
+          "engine": "petrol",
+          "price": [
+            {
+              "amount": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honda",
+      "count": 2,
+      "model": [
+        {
+          "colour": "white",
+          "engine": "disel",
+          "price": [
+            {
+              "amount": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

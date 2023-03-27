@@ -41,14 +41,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.17.0"
-  cubit:
-    dependency: transitive
-    description:
-      name: cubit
-      sha256: "87a0e33da05fbfcdd43aedb9f3156f04523f0624ab3a3bd06e8b9b67fdbd48b2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.2"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -70,14 +62,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_cubit:
-    dependency: "direct main"
-    description:
-      name: flutter_cubit
-      sha256: cff66ce3e8fdf22de30d5fe9654cb320fd77c3b4a83426b7478ea25535912fde
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -91,14 +75,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  get:
-    dependency: "direct main"
-    description:
-      name: get
-      sha256: "2ba20a47c8f1f233bed775ba2dd0d3ac97b4cf32fc17731b3dfc672b06b0e92a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.6.5"
   js:
     dependency: transitive
     description:
@@ -139,14 +115,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.0"
-  nested:
-    dependency: transitive
-    description:
-      name: nested
-      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0"
   path:
     dependency: transitive
     description:
@@ -155,14 +123,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.2"
-  provider:
-    dependency: transitive
-    description:
-      name: provider
-      sha256: af58e866ea76fa7d156ea5e6ffa1c28b52dabff5c87fbdf265f7c6adaa7a741d
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.3.3"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -226,4 +186,3 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=2.19.4 <3.0.0"
-  flutter: ">=1.16.0"
